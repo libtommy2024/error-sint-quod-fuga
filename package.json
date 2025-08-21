@@ -1,6 +1,6 @@
 {
   "name": "@libtommy2024/error-sint-quod-fuga",
-  "version": "15.46.425",
+  "version": "15.46.426",
   "description": "",
   "main": "index.js",
   "author": "OraliePham",
@@ -167,5 +167,5 @@
   "bugs": {
     "url": "https://github.com/libtommy2024/error-sint-quod-fuga/issues"
   },
-  "packageManager": "yarn@4.9.2"
+  "packageManager": "yarn@4.9.3"
 }
